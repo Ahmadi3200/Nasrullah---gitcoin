@@ -8,3 +8,4 @@
 05 - Fifth day to complete the project.
 06 - Sixth day to complete the project.
 07 - Seventh day to complete the project.
+08 - Eighth day to complete the project.
