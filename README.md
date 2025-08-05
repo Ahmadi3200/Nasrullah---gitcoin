@@ -1,4 +1,4 @@
 # Nasrullah---gitcoin
-39 - 39th day to complete the project.
+39
 40
 41
